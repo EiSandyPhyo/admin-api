@@ -59,7 +59,17 @@
       },
       "ein": "20-9487066",
       "ssn": "661-64-2976",
-      "userAgent": "Mozilla/5.0 ..."
+      "userAgent": "Mozilla/5.0 ...",
+      "login" : {
+        "id": 15,
+        "username": "terry",
+        "email": "terry@gmail.com",
+        "password" : "terry123",
+        "firstName": "Terry",
+        "lastName": "Jeck",
+        "gender": "male",
+        "image": "http://eliteadmin.themedesigner.in/demos/bt4/assets/images/users/1.jpg"
+      }
     }
   ]
 }
