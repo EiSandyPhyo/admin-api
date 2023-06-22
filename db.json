@@ -1,18 +1,23 @@
 {
   "admin": [
     {
-      "id": "adminuser",
-      "name": "admin",
-      "email": "admin@gmail.com",
+      "name": "Ella Lauda",
+      "gender": "female",
+      "email": " ella@site.com",
+      "phoneno": "+1609 972-22-22",
+      "id": "ella",
       "password": "123",
-      "password_confirmation": "123"
-    },
-    {
-      "id": "tarpo",
-      "name": "tartar",
-      "email": "tar@gmail.com",
-      "password": "123",
-      "password_confirmation": "123"
+      "dob": "2000-12-25",
+      "image": "https://htmlstream.com/preview/front-dashboard-v2.1.1/assets/img/160x160/img9.jpg",
+      "address": {
+        "address": "1745 T Street Southeast",
+        "city": "Washington"
+      },
+      "company": {
+        "department": "IT",
+        "name": "Blanda-O'Keefe",
+        "title": "Administrator"
+      }
     }
   ]
 }
