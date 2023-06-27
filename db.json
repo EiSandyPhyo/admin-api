@@ -8,7 +8,7 @@
       "id": "1",
       "username": "ella",
       "password": "123",
-      "dob":"1996-10-18T00:00:00.000Z",
+      "dob":"Oct 18,1998",
       "department": "IT",
       "image": "https://htmlstream.com/preview/front-dashboard-v2.1.1/assets/img/160x160/img9.jpg",
       "address": {
