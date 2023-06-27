@@ -8,6 +8,7 @@
       "id": "ella",
       "password": "123",
       "dob": "2000-12-25",
+      "department": "IT",
       "image": "https://htmlstream.com/preview/front-dashboard-v2.1.1/assets/img/160x160/img9.jpg",
       "address": {
         "address": "1745 T Street Southeast",
