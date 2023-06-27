@@ -13,11 +13,8 @@
         "address": "1745 T Street Southeast",
         "city": "Washington"
       },
-      "company": {
-        "department": "IT",
-        "name": "Blanda-O'Keefe",
-        "title": "Administrator"
-      }
+      "department": "IT",
+      "companyname": "Blanda-O'Keefe"
     }
   ]
 }
