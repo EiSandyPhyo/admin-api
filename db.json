@@ -4,14 +4,12 @@
       "id": "1",
       "name": "Ella Lauda",
       "email": " ella@site.com",
-      "phoneno": "+1609 972-22-22",
+      "phone": "+1609 972-22-22",
       "gender": "female",
       "dob":"Oct 18,1998",
-      "image": "https://htmlstream.com/preview/front-dashboard-v2.1.1/assets/img/160x160/img9.jpg",
-      "address": {
-        "address": "1745 T Street Southeast",
-        "city": "Washington"
-      },
+      "photo": "https://htmlstream.com/preview/front-dashboard-v2.1.1/assets/img/160x160/img9.jpg",
+      "address": "1745 T Street Southeast",
+      "city": "Washington",
       "department": "IT",
       "username": "ella",
       "password": "123"
