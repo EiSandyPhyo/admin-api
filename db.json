@@ -1,20 +1,20 @@
 {
   "admin": [
     {
+      "id": "1",
       "name": "Ella Lauda",
-      "gender": "female",
       "email": " ella@site.com",
       "phoneno": "+1609 972-22-22",
-      "id": "1",
-      "username": "ella",
-      "password": "123",
+      "gender": "female",
       "dob":"Oct 18,1998",
-      "department": "IT",
       "image": "https://htmlstream.com/preview/front-dashboard-v2.1.1/assets/img/160x160/img9.jpg",
       "address": {
         "address": "1745 T Street Southeast",
         "city": "Washington"
-      }
+      },
+      "department": "IT",
+      "username": "ella",
+      "password": "123"
     }
   ]
 }
