@@ -14,35 +14,6 @@
       "username": "ella",
       "password": "123",
       "loginId" : "1"
-    },
-    {
-      "id": "2",
-      "name": "TarTar",
-      "email": "tarpo@site.com",
-      "phone": "+1609 972-22-22",
-      "gender": "female",
-      "dob":"Oct 19,1998",
-      "photo": "https://htmlstream.com/preview/front-dashboard-v2.1.1/assets/img/160x160/img9.jpg",
-      "address": "1745 T Street Southeast",
-      "city": "Washington",
-      "department": "IT",
-      "username": "tarpo",
-      "password": "345",
-      "loginId" : "2"
-    }
-  ],
-  "login": [
-    {
-      "id": "1",
-      "email": " ella@site.com",
-      "username": "ella",
-      "password": "123"
-    },
-    {
-      "id": "2",
-      "email": "tarpo@site.com",
-      "username": "tarpo",
-      "password": "345"
     }
   ]
 }
